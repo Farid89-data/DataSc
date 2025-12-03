@@ -1,7 +1,7 @@
 
 # Debugging Exercises
 
-This repository contains a series of Python debugging exercises for the NHL Stenden Master's program in Computer Vision & Data Science (2025-2026).
+This repository contains a series of Python debugging exercises for Data Science.
 
 ## Exercise 1: Fixed id_to_fruit Function
 
